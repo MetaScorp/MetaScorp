@@ -42,39 +42,45 @@ I like taking an idea, turning it into something that works, and experimenting w
 
 ## 🔭 What I'm Exploring
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
-<td width="34%"><strong>Artificial Intelligence</strong></td>
-<td width="46%">███████████████████░</td>
-<td width="20%" align="right"><strong>90%</strong></td>
+<td><strong>Artificial Intelligence</strong></td>
+<td>████████████████████████░░</td>
+<td><strong>90%</strong></td>
 </tr>
 
 <tr>
 <td><strong>Data & Machine Learning</strong></td>
-<td>██████████████████░░</td>
-<td align="right"><strong>85%</strong></td>
+<td>███████████████████████░░░</td>
+<td><strong>85%</strong></td>
 </tr>
 
 <tr>
 <td><strong>Software Development</strong></td>
-<td>████████████████░░░░</td>
-<td align="right"><strong>80%</strong></td>
+<td>██████████████████████░░░░</td>
+<td><strong>80%</strong></td>
 </tr>
 
 <tr>
 <td><strong>Cloud & Deployment</strong></td>
-<td>██████████████░░░░░░</td>
-<td align="right"><strong>70%</strong></td>
+<td>███████████████████░░░░░░░</td>
+<td><strong>70%</strong></td>
 </tr>
 
 <tr>
 <td><strong>Algorithms & Problem Solving</strong></td>
-<td>█████████████████░░░</td>
-<td align="right"><strong>85%</strong></td>
+<td>███████████████████████░░░</td>
+<td><strong>85%</strong></td>
 </tr>
 </table>
 
-> Always learning. Always experimenting.
+</div>
+
+<p align="center">
+  <i>Always learning. Always experimenting.</i>
+</p>
 
 <br>
 
@@ -224,10 +230,8 @@ Always experimenting with new ideas, tools, and technologies.
 <div align="center">
 
 <img src="./profile/stats.svg" height="165" alt="GitHub Stats"/>
-
-   
-
-<img src="./profile/top-langs.svg" height="165" alt="Top Languages"/>
+&nbsp;&nbsp;&nbsp;
+<img src="./profile/top-langs.svg" height="165" alt="Most Used Languages"/>
 
 </div>
 
