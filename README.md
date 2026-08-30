@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+with+AI+%C2%B7+ML+%C2%B7+Data+%C2%B7+Code;Building+%E2%80%A2+Learning+%E2%80%A2+Experimenting;Turning+Ideas+Into+Practical+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+with+AI+%C2%B7+ML+%C2%B7+Data+%C2%B7+Code;Building+%E2%80%A2+Learning+%E2%80%A2+Experimenting;Turning+Ideas+Into+Practical+Projects" alt="Typing SVG"/>
 
 <br>
 
 # 👋 Hi, I'm MetaScorp
+
 **Engineer · Builder · Innovator**
+
 </div>
 
 <br><br>
@@ -18,15 +20,59 @@ I like taking an idea, turning it into something that works, and experimenting w
 
 <br>
 
+<p align="center">
+  <a href="https://meatscorp.com" title="Website">
+    <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/globe.svg" width="28" height="28" alt="Website"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/MetaScorp" title="Telegram">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="28" height="28" alt="Telegram"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/u/MetaScorp/s/9Beg6Dr1xw" title="Reddit">
+    <img src="https://cdn.simpleicons.org/reddit/FF4500" width="28" height="28" alt="Reddit"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/734331604406894672" title="Discord">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" width="28" height="28" alt="Discord"/>
+  </a>
+</p>
+
+<br>
+
 ## 🔭 What I'm Exploring
 
-```text id="r2x7v1"
-Artificial Intelligence      ███████████████████░  90%
-Data & Machine Learning      ██████████████████░░  85%
-Software Development         ████████████████░░░░  80%
-Cloud & Deployment           ██████████████░░░░░░  70%
-Algorithms & Problem Solving █████████████████░░░  85%
-```
+<table width="100%">
+<tr>
+<td width="34%"><strong>Artificial Intelligence</strong></td>
+<td width="46%">███████████████████░</td>
+<td width="20%" align="right"><strong>90%</strong></td>
+</tr>
+
+<tr>
+<td><strong>Data & Machine Learning</strong></td>
+<td>██████████████████░░</td>
+<td align="right"><strong>85%</strong></td>
+</tr>
+
+<tr>
+<td><strong>Software Development</strong></td>
+<td>████████████████░░░░</td>
+<td align="right"><strong>80%</strong></td>
+</tr>
+
+<tr>
+<td><strong>Cloud & Deployment</strong></td>
+<td>██████████████░░░░░░</td>
+<td align="right"><strong>70%</strong></td>
+</tr>
+
+<tr>
+<td><strong>Algorithms & Problem Solving</strong></td>
+<td>█████████████████░░░</td>
+<td align="right"><strong>85%</strong></td>
+</tr>
+</table>
 
 > Always learning. Always experimenting.
 
@@ -96,47 +142,47 @@ Always experimenting with new ideas, tools, and technologies.
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python" alt="Python"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" title="Java" alt="Java"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" title="C++" alt="C++"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript" alt="JavaScript"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript" alt="TypeScript"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js" alt="Node.js"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="SQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="SQL" alt="SQL"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL" alt="PostgreSQL"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" title="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas" alt="Pandas"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" title="Scikit-learn"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" title="NumPy" alt="NumPy"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" title="TensorFlow"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="42" title="Scikit-learn" alt="Scikit-learn"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" title="PyTorch"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="42" title="TensorFlow" alt="TensorFlow"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="42" title="PySpark"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="42" title="PyTorch" alt="PyTorch"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" title="Power BI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="42" title="PySpark" alt="PySpark"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42" title="Azure"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42" title="Azure" alt="Azure"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" title="AWS"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" title="AWS" alt="AWS"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42" title="Google Cloud"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42" title="Google Cloud" alt="Google Cloud"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker" alt="Docker"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="42" title="Kubernetes"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="42" title="Kubernetes" alt="Kubernetes"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git" alt="Git"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" title="GitHub" alt="GitHub"/>
 
 </p>
 
@@ -144,7 +190,7 @@ Always experimenting with new ideas, tools, and technologies.
 
 <p align="center">
 
-`Python` · `Java` · `C++` · `JavaScript` · `TypeScript` · `Node.js` · `SQL` · `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `PyTorch` · `PySpark` · `Power BI` · `Azure` · `AWS` · `GCP` · `Docker` · `Kubernetes` · `Git`
+`Python` · `Java` · `C++` · `JavaScript` · `TypeScript` · `Node.js` · `SQL` · `PostgreSQL` · `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `PyTorch` · `PySpark` · `Azure` · `AWS` · `GCP` · `Docker` · `Kubernetes` · `Git`
 
 </p>
 
@@ -154,7 +200,20 @@ Always experimenting with new ideas, tools, and technologies.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/MetaScorp/MetaScorp/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/MetaScorp/MetaScorp/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/MetaScorp/MetaScorp/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/MetaScorp/MetaScorp/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</picture>
 
 </p>
 
@@ -164,11 +223,11 @@ Always experimenting with new ideas, tools, and technologies.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MetaScorp&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
+<img src="./profile/stats.svg" height="165" alt="GitHub Stats"/>
 
    
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetaScorp&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+<img src="./profile/top-langs.svg" height="165" alt="Top Languages"/>
 
 </div>
 
