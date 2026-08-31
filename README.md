@@ -90,7 +90,7 @@ As an engineer, I enjoy solving problems, designing solutions, and figuring out 
 
 ### 🤖 Crypto Telegram Bot
 
-Cryptocurrency information and automation through a Telegram bot.
+Telegram bot to view the live crypto market using Telegram BotFather api.
 
 </td>
 
@@ -98,7 +98,7 @@ Cryptocurrency information and automation through a Telegram bot.
 
 ### 📈 Stock Market Analysis
 
-Data analysis and prediction experiments focused on market data.
+Stock market behaviour through historical data using Monte Carlo simulation.
 
 </td>
 </tr>
@@ -108,7 +108,7 @@ Data analysis and prediction experiments focused on market data.
 
 ### 📱 Campus Connect
 
-A campus-focused Android application.
+Android app designed for college work activities.
 
 </td>
 
