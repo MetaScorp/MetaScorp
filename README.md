@@ -14,9 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a developer who enjoys building things, solving problems, and learning by doing. My interests span software development, artificial intelligence, data analysis, automation, and algorithms.
-
-I like taking an idea, turning it into something that works, and experimenting with ways to make it better. This profile is where I document some of those projects, experiments, and things I'm learning along the way.
+As an engineer, I enjoy solving problems, designing solutions, and figuring out how things work. I like tinkering with technology, exploring random ideas, and actually turning them into useful code. My work mainly revolves around artificial intelligence, data analysis, automation, and algorithms. I enjoy taking an idea from “this might work” to something that actually works, and then experimenting with it to see how far I can push it or how I can improve it. This is my little techy, nerdy space on the internet, where I document some of the projects I'm working on, experiments I'm trying out, and things I'm learning along the way.
 
 <br>
 
