@@ -90,48 +90,43 @@ I like taking an idea, turning it into something that works, and experimenting w
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Crypto Telegram Bot
+### 🧠 Neovexa-DiagnoAI
 
-Cryptocurrency information and automation through a Telegram bot.
+A healthcare app that uses machine learning to help users understand possible conditions from symptoms and assess diabetes risk.
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 📈 Stock Market Analysis
 
-Data analysis and prediction experiments focused on market data.
+A Python project exploring stock market behaviour through historical data, analysis, and Monte Carlo simulation.
 
-</td>
-</tr>
+</td></tr>
 
 <tr>
 <td width="50%" valign="top">
 
 ### 📱 Campus Connect
 
-A campus-focused Android application.
+An Android app designed to bring common college activities, study materials, attendance, and updates into one place.
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🧠 Data Structure Master
+### 🧩 Data Structure Master
 
-A project for practicing data structures and algorithms.
+A project for practicing data structures, algorithms, and problem-solving through hands-on coding.
 
-</td>
-</tr>
-
+</td></tr>
+  
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Rock Paper Scissors
+### 🤖 Crypto Telegram Bot
 
-A simple C++ game and programming exercise.
+A Telegram bot to view live crypto market information using the Telegram BotFather API.
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🧪 More Experiments
@@ -238,8 +233,6 @@ Always experimenting with new ideas, tools, and technologies.
 <br><br>
 
 <div align="center">
-
-### `Build. Learn. Improve.`
 
 *Turning curiosity into code.*
 
