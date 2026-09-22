@@ -21,7 +21,7 @@ I like taking an idea, turning it into something that works, and experimenting w
 <br>
 
 <p align="center">
-  <a href="https://meatscorp.com" title="Website">
+  <a href="https://metascorp.com" title="Website">
     <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/globe.svg" width="28" height="28" alt="Website"/>
   </a>
   &nbsp;&nbsp;&nbsp;
